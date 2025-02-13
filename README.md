@@ -4,7 +4,9 @@
 # Demo
 预览
 ## 主页
-![主页](image.png)
+![主页]![image](https://github.com/user-attachments/assets/88006cb3-5fe6-428b-8128-0397f1994e89)
+![行程安排](https://github.com/user-attachments/assets/80e5b6c2-dfb9-4f2b-a3ff-43bb41290f55)
+
 
 ## 作品集
 ![作品集](image/xiangceji.png)
