@@ -1,0 +1,32 @@
+[
+    {
+        "name": "主页",
+        "url": "/",
+        "icon": "fa fa-home"
+    },
+    {
+        "name": "拍照时间线",
+        "url": "/timeline",
+        "icon": "fa fa-message"
+    },
+    {
+        "name": "行程安排",
+        "url": "/calendar",
+        "icon": "fa fa-dashboard"
+    },
+    {
+        "name": "弹幕板",
+        "url": "/danmuban",
+        "icon": "fa fa-message"
+    },
+    {
+        "name": "访问统计",
+        "url": "/dashboard",
+        "icon": "fa fa-dashboard"
+    },
+    {
+        "name": "作品集",
+        "url": "/picture",
+        "icon": "fa fa-image"
+    }
+]

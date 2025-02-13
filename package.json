@@ -1,0 +1,43 @@
+{
+  "name": "bookmark-main",
+  "private": true,
+  "version": "1.1.2",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fingerprintjs/fingerprintjs": "^4.2.2",
+    "@supabase/supabase-js": "^2.39.6",
+    "@types/stats.js": "^0.17.0",
+    "@vueuse/core": "^9.13.0",
+    "@vueuse/motion": "^2.2.5",
+    "animate.css": "^4.1.1",
+    "axios": "^1.7.9",
+    "blurhash": "^2.0.5",
+    "danmaku-vue": "^1.0.2",
+    "element-plus": "^2.9.0",
+    "emoji-reaction": "^2.1.1",
+    "leancloud-storage": "^4.15.2",
+    "less": "^4.2.0",
+    "lunar-javascript": "^1.6.13",
+    "pnpm": "^9.15.0",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.3.1",
+    "sharp": "^0.33.2",
+    "stats.js": "^0.17.0",
+    "swiper": "^11.1.14",
+    "vue": "^3.4.37",
+    "vue-router": "4",
+    "vue3-typed-js": "^0.0.1"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.1.64",
+    "@unocss/transformer-directives": "^0.53.6",
+    "@vitejs/plugin-vue": "^5.1.4",
+    "unocss": "^0.53.6",
+    "vite": "^5.4.1"
+  }
+}

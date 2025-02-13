@@ -1,0 +1,27 @@
+[
+  {
+    "type": "本站二维码",
+    "icon": "fa fa-home",
+    "qrCode": "http://bookmarksoft.cn:53785/oss/website.png",
+    "hoverColor": "#007aff"
+  },
+  {
+    "type": "抖音",
+    "icon": "1",
+    "qrCode": "http://bookmarksoft.cn:53785/oss/douyin.jpg",
+    "hoverColor": "#007aff",
+    "cus":1
+  },
+  {
+    "type": "微信",
+    "icon": "fab fa-weixin",
+    "qrCode": "http://bookmarksoft.cn:53785/oss/wechat.jpg",
+    "hoverColor": "#247700"
+  },
+  {
+    "type": "QQ",
+    "icon": "fab fa-qq",
+    "qrCode": "http://bookmarksoft.cn:53785/oss/qq.jpg",
+    "hoverColor": "#007aff"
+  }
+]
